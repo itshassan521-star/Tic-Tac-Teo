@@ -1,1 +1,0 @@
-window.location.href='C:\Users\Shoppydoo.pk\Downloads\Web\Game\tic tac\index.html'
