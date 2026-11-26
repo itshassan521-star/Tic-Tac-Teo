@@ -9,6 +9,7 @@ let drawbtn=document.querySelector("#d-btn");
 let msg2=document.querySelector("#msg2");
 let turnX= true;
 let count=0;
+
 const winptr=[
     [0,1,2],
     [0,4,8], 
