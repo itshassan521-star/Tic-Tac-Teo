@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #548687;
+    text-align: center;
+}
+.mainpage{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+
+
+}
+#btn{
+    padding: 1rem;
+    font-size: 1.3rem;
+    background-color: #b0413e;
+    color: #ffff;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-decoration-line: none;
+}
+
+#msg{
+    font-size: 10vmin;
+    color: #140C04;
+
+}
+#btn:hover{
+    background-color: #8f3432;
+    transform: scale(1.05);
+}
